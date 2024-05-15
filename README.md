@@ -25,4 +25,4 @@ tout en construisant un magnifique site Web Nike avec :
 👉 Réactif Mobile : Le site entier est réactif sur différents appareils, mettant en avant les capacités mobiles de Tailwind.
 
 et bien plus encore, y compris l'architecture du code et la réutilisabilité.
-
+ 
